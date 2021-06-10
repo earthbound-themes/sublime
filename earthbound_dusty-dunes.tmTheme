@@ -20,7 +20,7 @@ https://github.com/benbusby/earthbound-themes -->
           <string>#f9e4a1</string>
 
           <key>invisibles</key>
-          <string>#3B3A32</string>
+          <string>#f9e4a1</string>
           <key>lineHighlight</key>
           <string>#140f00</string>
           <key>selection</key>
@@ -295,7 +295,7 @@ https://github.com/benbusby/earthbound-themes -->
         </dict>
       </dict>
     </array>
-    <key>14ae56f1-8b07-4b62-bb36-8f9b19674c04</key>
+    <key>1768852a-953f-483a-a477-ab3faff82890</key>
     <string>theme_id</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>

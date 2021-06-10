@@ -13,16 +13,16 @@ https://github.com/benbusby/earthbound-themes -->
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#e6e5ab</string>
+          <string>#f9f8b9</string>
           <key>caret</key>
           <string>#220088</string>
           <key>foreground</key>
           <string>#220088</string>
 
           <key>invisibles</key>
-          <string>#3B3A32</string>
+          <string>#876a55</string>
           <key>lineHighlight</key>
-          <string>#f9f8b9</string>
+          <string>#e6e5ab</string>
           <key>selection</key>
           <string>#b299ff</string>
           <key>gutter</key>
@@ -41,7 +41,7 @@ https://github.com/benbusby/earthbound-themes -->
           <key>foreground</key>
           <string>#525252</string>
           <key>background</key>
-          <string>#e6e5ab00</string>
+          <string>#f9f8b900</string>
         </dict>
       </dict>
       <dict>
@@ -295,7 +295,7 @@ https://github.com/benbusby/earthbound-themes -->
         </dict>
       </dict>
     </array>
-    <key>0e41bb7b-02b7-411a-a830-3750ee7c0b86</key>
+    <key>48381a88-6a0c-44e3-bc6a-b8d3d8145b06</key>
     <string>theme_id</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
